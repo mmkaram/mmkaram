@@ -1,8 +1,14 @@
-Hi 👋 My name is Mahdy Karam
-============================
+<p align="center">
+<!--   <img src="https://i.ibb.co/1MfwVkV/Linkedd-In-cover-1.png" width="100%" />  -->
+  <h1 align="center"><a href="https://codewonders.dev">I'm Mahdy Karam</a></h1>
+  <p align="center"> Cybersecurity and Computer Vision Programmer</p>
+</p>
 
-Cybersecurity and Computer Vision Programmer
---------------------------------------------
+<p align="center">
+  <a href="https://mmkaram.github.io">Portfolio</a> | 
+  <a href="https://twitter.com/mahdykaram">Twitter</a> |
+  <a href="https://linkedin.com/in/mahdy-karam">LinkedIn</a>
+</p>
 
 EN/FR/AR/IT
 
