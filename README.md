@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://mmkaram.github.io">Portfolio</a> | 
   <a href="https://twitter.com/mahdykaram">Twitter</a> |
-  <a href="https://linkedin.com/in/mahdy-karam">LinkedIn</a>
+  <a href="https://linkedin.com/in/mahdykaram">LinkedIn</a>
 </p>
 
 EN/FR/AR/IT
