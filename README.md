@@ -6,8 +6,9 @@
 
 <p align="center">
   <a href="https://mmkaram.github.io">Portfolio</a> | 
-  <a href="https://twitter.com/mahdykaram">Twitter</a> |
-  <a href="https://linkedin.com/in/mahdykaram">LinkedIn</a>
+  <a href="https://linkedin.com/in/mahdykaram">LinkedIn</a> |
+  <a href="https://www.goodreads.com/mmkaram">Goodreads</a>
+
 </p>
 
 EN/FR/AR/IT
