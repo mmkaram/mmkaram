@@ -14,9 +14,9 @@ EN/FR/AR/IT
 
 I've been programming for 9 years now and I mostly work on my startup, SquashAI
 
-* 🌍  I'm either based in Seattle or Cairo
+* 🌍  I'm either based in Seattle, Waterloo, or Cairo
 * ✉️  You can contact me on [LinkedIn](https://www.linkedin.com/in/mahdykaram).
 * 💾  I can code in C/C++, Rust, Python, JS, Java and more.
-* 🧠  I'm learning OpenCV and Rust
+* 🧠  I'm learning OpenCV and Haskell
 * 🤝  I'm open to collaborating on computer vision projects
 * ⚡  I play squash, watch F1, and like to take pictures!
