@@ -4,7 +4,7 @@
   <p align="center"> Cybersecurity and Computer Vision Programmer</p>
 </p>
 <p align="center">
-  <a href="https://mmkaram.github.io">Portfolio</a> | 
+  <a href="https://mmkaram.github.io">Website</a> | 
   <a href="https://linkedin.com/in/mahdykaram">LinkedIn</a> |
   <a href="https://app.thestorygraph.com/profile/mmkaram">Storygraph</a>
 
