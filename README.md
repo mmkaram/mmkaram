@@ -1,7 +1,7 @@
 <p align="center">
 <!--   <img src="https://i.ibb.co/1MfwVkV/Linkedd-In-cover-1.png" width="100%" />  -->
   <h1 align="center"><a href="https://mmkaram.github.io">I'm Mahdy Karam</a></h1>
-  <p align="center"> Cybersecurity and Computer Vision Programmer</p>
+  <p align="center"> Computer Vision Programmer</p>
 </p>
 <p align="center">
   <a href="https://mmkaram.github.io">Website</a> | 
