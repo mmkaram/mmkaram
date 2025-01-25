@@ -19,6 +19,6 @@ I've been programming for 9 years now and I mostly work on my startup, SquashAI
 * 💾  I can code in C/C++, Rust, Python, JS, Java and more.
 * 🧠  I'm learning JS and Haskell
 * ⚡  I play squash, watch F1, and like to take pictures!
-<p align="center">
+
 ![mmkaram's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mmkaram&theme=dark&show_icons=true&hide_border=true&layout=compact) 
-</p>
+<!-- ![mmkaram's Stats](https://github-readme-stats.vercel.app/api?username=mmkaram&theme=dark&show_icons=true&hide_border=true&count_private=true) -->
