@@ -11,7 +11,7 @@
 </p>
 
 
-- I'm either based in Seattle, Waterloo, or Cairo
+- Seattle based
 - Contact me on [LinkedIn](https://www.linkedin.com/in/mahdykaram).
 - I speak English, French, and Arabic
 - I mostly code in Python, C++, Rust, and TS
