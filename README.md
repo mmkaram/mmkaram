@@ -5,7 +5,7 @@
 </p>
 <p align="center">
   <a href="https://mmkaram.dev">Website</a> | 
-  <a href="https://linkedin.com/in/mahdykaram">LinkedIn</a> |
+  <a href="https://linkedin.com/in/mahdykaram">LinkedIn</a>
 
 </p>
 
